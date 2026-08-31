@@ -95,7 +95,7 @@ pip-wheel-metadata/
 .terraform/
 *.tfstate
 *.tfstate.*
-
+test_cases/
 
 
 mm.md
